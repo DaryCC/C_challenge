@@ -41,6 +41,6 @@ int main() {
 
 
     fclose(f); // Paso 5
-
+    printf("Esta es una prueba");
     return 0;
 }
